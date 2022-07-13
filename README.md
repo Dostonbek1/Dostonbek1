@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Doston, and I'm passionate about learning and open source.
 
 ## Here are some of my statistics 🚀
 ![Doston's github stats](https://github-readme-stats.vercel.app/api?username=Dostonbek1&show_icons=true&theme=tokyonight)

@@ -25,4 +25,5 @@ reliability, automation, and the tooling that keeps releases moving.
 ---
 
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=Dostonbek1&show_icons=true&theme=tokyonight&hide_title=true)
+![GitHub streak](https://streak-stats.demolab.com/?user=Dostonbek1&theme=tokyonight)
 ![Top langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Dostonbek1&theme=tokyonight&layout=compact&hide_title=true)
